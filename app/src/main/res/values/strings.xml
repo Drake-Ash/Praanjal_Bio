@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Praanjal Bio</string>
+    <string name="UserName">User name</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="PhoneNumber">Phone Number(10 digit number)</string>
+    <string name="Address">Address</string>
+    <string name="postalCode">Postal Code</string>
+    <string name="Signout">Sign Out</string>
+    <string name="VerificationCode">Verification Code</string>
+    <string name="Name">Name</string>
+    <string name="PatientCount">Patient Count</string>
+    <string name="patientid">Patient ID</string>
+    <string name="Age">Age</string>
+    <string name="Breed">Breed</string>
+    <string name="pGender">Gender</string>
+    <string name="pBreed">Breed</string>
+    <string name="pAge">Age</string>
+    <string name="Update">Update</string>
+    <string name="Comments">Comments</string>
+    <string name="Submit">Submit</string>
+</resources>
