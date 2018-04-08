@@ -18,7 +18,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity"/>
+        <activity android:name=".MainActivity" />
         <activity android:name=".LoginActivity" />
         <activity android:name=".ClientRegActivity" />
         <activity android:name=".PatientListActivity" />
@@ -28,10 +28,8 @@
         <activity android:name=".UpdateClient" />
         <activity android:name=".TreatmentEntry" />
         <activity android:name=".CameraActivity" />
-        <activity android:name=".ViewCamera"/>
-
-
+        <activity android:name=".ViewCamera" />
+        <activity android:name=".OTP_Verification"></activity>
     </application>
-
 
 </manifest>
